@@ -2,6 +2,9 @@
 
 This is a meta repo pointing to code content for various use-cases (demo, training, workstations, etc.).  Please link any content you use regularly so it's easily discoverable by other folks within Chef.
 
+**NOTE**
+Not all content below may be publicly accessible.
+
 ## Demo Repositories & Content
 
 | Content | Notes |
