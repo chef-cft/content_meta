@@ -5,6 +5,11 @@ This is a meta repo pointing to code content for various use-cases (demo, traini
 **NOTE**
 Not all content below may be publicly accessible.
 
+## Content Examples
+| Content | Notes|
+| ------- | ---- |
+| [Chef Examples](https://github.com/chef-cft/chef-examples) | Content exampmles for a variety of deployments and use-cases |
+
 ## Demo Repositories & Content
 
 | Content | Notes |
