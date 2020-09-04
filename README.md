@@ -6,9 +6,11 @@ This is a meta repo pointing to code content for various use-cases (demo, traini
 Not all content below may be publicly accessible.
 
 ## Content Examples
+
 | Content | Notes|
 | ------- | ---- |
-| [Chef Examples](https://github.com/chef-cft/chef-examples) | Content exampmles for a variety of deployments and use-cases |
+| [Chef Examples](https://github.com/chef-cft/chef-examples) | Content examples for a variety of deployments and use-cases |
+| [Patch Management](https://github.com/chef-cft/patch_management) | Information and code examples for managing effective patch management processes. |
 
 ## Demo Repositories & Content
 
@@ -22,7 +24,7 @@ Not all content below may be publicly accessible.
 | ------- | ----- |
 | [Apprentice](https://github.com/chef-cft/apprentice-chef) | Terraform-based env suitable for training content |
 
-## Genereal Repositories & Content
+## General Repositories & Content
 
 | Content | Notes |
 | ------- | ----- |
